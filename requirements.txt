@@ -1,0 +1,2 @@
+# this file will be created with pip-compile
+# run: pip-compile requirements.in
